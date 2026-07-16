@@ -1,108 +1,207 @@
-<h1 align="center">Hi 👋, I'm Barani</h1>
-<h3 align="center">AWS & DevOps Engineer | Cloud Enthusiast | Infrastructure Automation</h3>
+# 👋 Hi there, I'm Barani S
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">
+🚀 AWS & DevOps Engineer | ☁️ Cloud Enthusiast | 🏗️ Infrastructure Automation | 🐧 Linux Lover
+</h3>
 
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering Graduate (Honors in Data Science)
-- ☁️ Learning AWS Cloud & DevOps
-- 🐳 Working with Docker, Kubernetes & Jenkins
-- 🏗️ Building Infrastructure using Terraform
-- 🐧 Linux Enthusiast
-- 🔄 Passionate about CI/CD Automation
-- 📚 Currently learning Kubernetes & AWS DevOps
-- 🎯 Goal: Become a Cloud & DevOps Engineer
+<p align="center">
+Passionate about building scalable, secure, and highly available cloud infrastructure through automation.
+I enjoy transforming manual processes into efficient CI/CD pipelines and Infrastructure as Code while continuously learning modern cloud-native technologies.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-### Cloud
+💻 Computer Science Engineering Graduate (Honors in Data Science)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+☁️ Passionate about Cloud Computing, DevOps, and Infrastructure Automation
 
-### DevOps
+🚀 Hands-on experience designing and deploying production-ready infrastructure on AWS
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+⚙️ Experienced in building CI/CD pipelines, containerized applications, and cloud-native solutions
 
-### Containers
+🏗️ Strong understanding of Infrastructure as Code (Terraform & CloudFormation)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+🐳 Skilled in Docker, Kubernetes, Jenkins, GitHub Actions, and Ansible
 
-### Operating Systems
+📊 Interested in Monitoring, Observability, and Performance Optimization using Prometheus & Grafana
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+🐧 Linux enthusiast with experience in Bash scripting and server administration
 
-### Monitoring
+📚 Always learning new cloud technologies and DevOps best practices
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+🎯 Goal: Become a Cloud & DevOps Engineer who designs reliable, scalable, and automated cloud platforms.
 
 ---
 
-## 🌟 Featured Projects
+# 💻 Tech Arsenal
 
-### 🚀 Terraform AWS Infrastructure
+<table>
+<tr>
+<td>
 
-- VPC
-- Public & Private Subnets
-- Internet Gateway
-- Route Tables
-- EC2
-- ALB
-- Auto Scaling
+### ☁️ Cloud
 
-### 🐳 Docker CI/CD Pipeline
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
 
-- Docker
-- Jenkins
-- GitHub
-- Docker Hub
+EC2 • VPC • IAM • S3 • EBS • EFS • Route53 • CloudFront • CloudWatch • CloudTrail • ALB • NLB • Auto Scaling • RDS • Lambda • SNS • SQS • DynamoDB • AWS CLI
 
-### ☁️ AWS Monitoring Stack
+</td>
+</tr>
 
-- Prometheus
-- Grafana
-- EC2 Monitoring
+<tr>
+<td>
+
+### 🏗️ Infrastructure as Code
+
+<p>
+<img src="https://skillicons.dev/icons?i=terraform"/>
+</p>
+
+Terraform • AWS CloudFormation
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🐳 Containers & Orchestration
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+</p>
+
+Docker • Docker Compose • Kubernetes
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🚀 CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab"/>
+</p>
+
+Jenkins • GitHub Actions • GitLab CI/CD
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚙️ Configuration Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=ansible"/>
+</p>
+
+Ansible
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📂 Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket"/>
+</p>
+
+Git • GitHub • Bitbucket
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📊 Monitoring & Logging
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
+</p>
+
+Prometheus • Grafana
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🐧 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
+</p>
+
+Ubuntu • CentOS • Amazon Linux • Windows
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🐍 Scripting & Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash"/>
+</p>
+
+Python • Bash • YAML • JSON
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🛠️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+</p>
+
+Visual Studio Code • Postman • PuTTY • JIRA
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 My DevOps Philosophy
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+✨ Automate Everything
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+☁️ Build for Scalability
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+🔐 Secure by Design
 
----
+📦 Containerize Applications
 
-## 🏆 GitHub Trophies
+🚀 Deliver with CI/CD
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
+📊 Monitor Everything
 
----
-
-## 📫 Connect with Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: 
+📈 Continuously Improve
 
 ---
 
-### 💡 Quote
+<p align="center">
 
-> "Automate Everything. Learn Continuously. Build Fearlessly."
+### 💡 "First, solve the problem. Then, automate it."
 
-⭐ Thanks for visiting my profile!
+</p>
